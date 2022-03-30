@@ -1,0 +1,9 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://zahidhasan.vercel/hrms"
+        xmlns:tns="https://zahidhasan.vercel/hrms"
+        elementFormDefault="qualified">
+    <element name="GetEmployeeRequest" type="tns:GetEmployeeRequest">
+
+    </element>
+
+</schema>
